@@ -1,4 +1,4 @@
 ## Current Projects
 
-[PySpark Cheatsheet](https://cartershanklin.github.io/pyspark-cheatsheet/) PySpark Cheat Sheet - learn PySpark and develop apps faster
+[PySpark Cheat Sheet](https://cartershanklin.github.io/pyspark-cheatsheet/) - learn PySpark and develop apps faster
 
